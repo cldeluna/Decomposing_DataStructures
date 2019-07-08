@@ -1,0 +1,287 @@
+[
+    {
+        "name": "Ukraine",
+        "topLevelDomain": [
+            ".ua"
+        ],
+        "alpha2Code": "UA",
+        "alpha3Code": "UKR",
+        "callingCodes": [
+            "380"
+        ],
+        "capital": "Kiev",
+        "altSpellings": [
+            "UA",
+            "Ukrayina"
+        ],
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "population": 42692393,
+        "latlng": [
+            49.0,
+            32.0
+        ],
+        "demonym": "Ukrainian",
+        "area": 603700.0,
+        "gini": 26.4,
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "borders": [
+            "BLR",
+            "HUN",
+            "MDA",
+            "POL",
+            "ROU",
+            "RUS",
+            "SVK"
+        ],
+        "nativeName": "\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+        "numericCode": "804",
+        "currencies": [
+            {
+                "code": "UAH",
+                "name": "Ukrainian hryvnia",
+                "symbol": "\u20b4"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "uk",
+                "iso639_2": "ukr",
+                "name": "Ukrainian",
+                "nativeName": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430"
+            }
+        ],
+        "translations": {
+            "de": "Ukraine",
+            "es": "Ucrania",
+            "fr": "Ukraine",
+            "ja": "\u30a6\u30af\u30e9\u30a4\u30ca",
+            "it": "Ucraina",
+            "br": "Ucr\u00e2nia",
+            "pt": "Ucr\u00e2nia",
+            "nl": "Oekra\u00efne",
+            "hr": "Ukrajina",
+            "fa": "\u0648\u06a9\u0631\u0627\u06cc\u0646"
+        },
+        "flag": "https://restcountries.eu/data/ukr.svg",
+        "regionalBlocs": [],
+        "cioc": "UKR"
+    },
+    {
+        "name": "Cook Islands",
+        "topLevelDomain": [
+            ".ck"
+        ],
+        "alpha2Code": "CK",
+        "alpha3Code": "COK",
+        "callingCodes": [
+            "682"
+        ],
+        "capital": "Avarua",
+        "altSpellings": [
+            "CK",
+            "K\u016bki '\u0100irani"
+        ],
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "population": 18100,
+        "latlng": [
+            -21.23333333,
+            -159.76666666
+        ],
+        "demonym": "Cook Islander",
+        "area": 236.0,
+        "gini": null,
+        "timezones": [
+            "UTC-10:00"
+        ],
+        "borders": [],
+        "nativeName": "Cook Islands",
+        "numericCode": "184",
+        "currencies": [
+            {
+                "code": "NZD",
+                "name": "New Zealand dollar",
+                "symbol": "$"
+            },
+            {
+                "code": "CKD",
+                "name": "Cook Islands dollar",
+                "symbol": "$"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "en",
+                "iso639_2": "eng",
+                "name": "English",
+                "nativeName": "English"
+            }
+        ],
+        "translations": {
+            "de": "Cookinseln",
+            "es": "Islas Cook",
+            "fr": "\u00celes Cook",
+            "ja": "\u30af\u30c3\u30af\u8af8\u5cf6",
+            "it": "Isole Cook",
+            "br": "Ilhas Cook",
+            "pt": "Ilhas Cook",
+            "nl": "Cookeilanden",
+            "hr": "Cookovo Oto\u010dje",
+            "fa": "\u062c\u0632\u0627\u06cc\u0631 \u06a9\u0648\u06a9"
+        },
+        "flag": "https://restcountries.eu/data/cok.svg",
+        "regionalBlocs": [],
+        "cioc": "COK"
+    },
+    {
+        "name": "Korea (Democratic People's Republic of)",
+        "topLevelDomain": [
+            ".kp"
+        ],
+        "alpha2Code": "KP",
+        "alpha3Code": "PRK",
+        "callingCodes": [
+            "850"
+        ],
+        "capital": "Pyongyang",
+        "altSpellings": [
+            "KP",
+            "Democratic People's Republic of Korea",
+            "\uc870\uc120\ubbfc\uc8fc\uc8fc\uc758\uc778\ubbfc\uacf5\ud654\uad6d",
+            "Chos\u014fn Minjuju\u016di Inmin Konghwaguk"
+        ],
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "population": 25281000,
+        "latlng": [
+            40.0,
+            127.0
+        ],
+        "demonym": "North Korean",
+        "area": 120538.0,
+        "gini": null,
+        "timezones": [
+            "UTC+09:00"
+        ],
+        "borders": [
+            "CHN",
+            "KOR",
+            "RUS"
+        ],
+        "nativeName": "\ubd81\ud55c",
+        "numericCode": "408",
+        "currencies": [
+            {
+                "code": "KPW",
+                "name": "North Korean won",
+                "symbol": "\u20a9"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "ko",
+                "iso639_2": "kor",
+                "name": "Korean",
+                "nativeName": "\ud55c\uad6d\uc5b4"
+            }
+        ],
+        "translations": {
+            "de": "Nordkorea",
+            "es": "Corea del Norte",
+            "fr": "Cor\u00e9e du Nord",
+            "ja": "\u671d\u9bae\u6c11\u4e3b\u4e3b\u7fa9\u4eba\u6c11\u5171\u548c\u56fd",
+            "it": "Corea del Nord",
+            "br": "Coreia do Norte",
+            "pt": "Coreia do Norte",
+            "nl": "Noord-Korea",
+            "hr": "Sjeverna Koreja",
+            "fa": "\u06a9\u0631\u0647 \u062c\u0646\u0648\u0628\u06cc"
+        },
+        "flag": "https://restcountries.eu/data/prk.svg",
+        "regionalBlocs": [],
+        "cioc": "PRK"
+    },
+    {
+        "name": "United Kingdom of Great Britain and Northern Ireland",
+        "topLevelDomain": [
+            ".uk"
+        ],
+        "alpha2Code": "GB",
+        "alpha3Code": "GBR",
+        "callingCodes": [
+            "44"
+        ],
+        "capital": "London",
+        "altSpellings": [
+            "GB",
+            "UK",
+            "Great Britain"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "population": 65110000,
+        "latlng": [
+            54.0,
+            -2.0
+        ],
+        "demonym": "British",
+        "area": 242900.0,
+        "gini": 34.0,
+        "timezones": [
+            "UTC-08:00",
+            "UTC-05:00",
+            "UTC-04:00",
+            "UTC-03:00",
+            "UTC-02:00",
+            "UTC",
+            "UTC+01:00",
+            "UTC+02:00",
+            "UTC+06:00"
+        ],
+        "borders": [
+            "IRL"
+        ],
+        "nativeName": "United Kingdom",
+        "numericCode": "826",
+        "currencies": [
+            {
+                "code": "GBP",
+                "name": "British pound",
+                "symbol": "\u00a3"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "en",
+                "iso639_2": "eng",
+                "name": "English",
+                "nativeName": "English"
+            }
+        ],
+        "translations": {
+            "de": "Vereinigtes K\u00f6nigreich",
+            "es": "Reino Unido",
+            "fr": "Royaume-Uni",
+            "ja": "\u30a4\u30ae\u30ea\u30b9",
+            "it": "Regno Unito",
+            "br": "Reino Unido",
+            "pt": "Reino Unido",
+            "nl": "Verenigd Koninkrijk",
+            "hr": "Ujedinjeno Kraljevstvo",
+            "fa": "\u0628\u0631\u06cc\u062a\u0627\u0646\u06cc\u0627\u06cc \u06a9\u0628\u06cc\u0631 \u0648 \u0627\u06cc\u0631\u0644\u0646\u062f \u0634\u0645\u0627\u0644\u06cc"
+        },
+        "flag": "https://restcountries.eu/data/gbr.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "EU",
+                "name": "European Union",
+                "otherAcronyms": [],
+                "otherNames": []
+            }
+        ],
+        "cioc": "GBR"
+    }
+]

@@ -1,0 +1,96 @@
+[
+    {
+        "name": "Singapore",
+        "topLevelDomain": [
+            ".sg"
+        ],
+        "alpha2Code": "SG",
+        "alpha3Code": "SGP",
+        "callingCodes": [
+            "65"
+        ],
+        "capital": "Singapore",
+        "altSpellings": [
+            "SG",
+            "Singapura",
+            "Republik Singapura",
+            "\u65b0\u52a0\u5761\u5171\u548c\u56fd"
+        ],
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "population": 5535000,
+        "latlng": [
+            1.36666666,
+            103.8
+        ],
+        "demonym": "Singaporean",
+        "area": 710.0,
+        "gini": 48.1,
+        "timezones": [
+            "UTC+08:00"
+        ],
+        "borders": [],
+        "nativeName": "Singapore",
+        "numericCode": "702",
+        "currencies": [
+            {
+                "code": "BND",
+                "name": "Brunei dollar",
+                "symbol": "$"
+            },
+            {
+                "code": "SGD",
+                "name": "Singapore dollar",
+                "symbol": "$"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "en",
+                "iso639_2": "eng",
+                "name": "English",
+                "nativeName": "English"
+            },
+            {
+                "iso639_1": "ms",
+                "iso639_2": "msa",
+                "name": "Malay",
+                "nativeName": "bahasa Melayu"
+            },
+            {
+                "iso639_1": "ta",
+                "iso639_2": "tam",
+                "name": "Tamil",
+                "nativeName": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+            },
+            {
+                "iso639_1": "zh",
+                "iso639_2": "zho",
+                "name": "Chinese",
+                "nativeName": "\u4e2d\u6587 (Zh\u014dngw\u00e9n)"
+            }
+        ],
+        "translations": {
+            "de": "Singapur",
+            "es": "Singapur",
+            "fr": "Singapour",
+            "ja": "\u30b7\u30f3\u30ac\u30dd\u30fc\u30eb",
+            "it": "Singapore",
+            "br": "Singapura",
+            "pt": "Singapura",
+            "nl": "Singapore",
+            "hr": "Singapur",
+            "fa": "\u0633\u0646\u06af\u0627\u067e\u0648\u0631"
+        },
+        "flag": "https://restcountries.eu/data/sgp.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "ASEAN",
+                "name": "Association of Southeast Asian Nations",
+                "otherAcronyms": [],
+                "otherNames": []
+            }
+        ],
+        "cioc": "SIN"
+    }
+]

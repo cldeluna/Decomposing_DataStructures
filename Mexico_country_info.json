@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Mexico",
+        "topLevelDomain": [
+            ".mx"
+        ],
+        "alpha2Code": "MX",
+        "alpha3Code": "MEX",
+        "callingCodes": [
+            "52"
+        ],
+        "capital": "Mexico City",
+        "altSpellings": [
+            "MX",
+            "Mexicanos",
+            "United Mexican States",
+            "Estados Unidos Mexicanos"
+        ],
+        "region": "Americas",
+        "subregion": "Central America",
+        "population": 122273473,
+        "latlng": [
+            23.0,
+            -102.0
+        ],
+        "demonym": "Mexican",
+        "area": 1964375.0,
+        "gini": 47.0,
+        "timezones": [
+            "UTC-08:00",
+            "UTC-07:00",
+            "UTC-06:00"
+        ],
+        "borders": [
+            "BLZ",
+            "GTM",
+            "USA"
+        ],
+        "nativeName": "M\u00e9xico",
+        "numericCode": "484",
+        "currencies": [
+            {
+                "code": "MXN",
+                "name": "Mexican peso",
+                "symbol": "$"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "es",
+                "iso639_2": "spa",
+                "name": "Spanish",
+                "nativeName": "Espa\u00f1ol"
+            }
+        ],
+        "translations": {
+            "de": "Mexiko",
+            "es": "M\u00e9xico",
+            "fr": "Mexique",
+            "ja": "\u30e1\u30ad\u30b7\u30b3",
+            "it": "Messico",
+            "br": "M\u00e9xico",
+            "pt": "M\u00e9xico",
+            "nl": "Mexico",
+            "hr": "Meksiko",
+            "fa": "\u0645\u06a9\u0632\u06cc\u06a9"
+        },
+        "flag": "https://restcountries.eu/data/mex.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "PA",
+                "name": "Pacific Alliance",
+                "otherAcronyms": [],
+                "otherNames": [
+                    "Alianza del Pac\u00edfico"
+                ]
+            },
+            {
+                "acronym": "NAFTA",
+                "name": "North American Free Trade Agreement",
+                "otherAcronyms": [],
+                "otherNames": [
+                    "Tratado de Libre Comercio de Am\u00e9rica del Norte",
+                    "Accord de Libre-\u00e9change Nord-Am\u00e9ricain"
+                ]
+            }
+        ],
+        "cioc": "MEX"
+    }
+]
