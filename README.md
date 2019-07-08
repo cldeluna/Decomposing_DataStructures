@@ -51,7 +51,7 @@ Lets start with a simple example.
 
 Below is an Ansible playbook that queries and ACI fabric for the configured tenants.   
 
-![aci-tenant-output](/Users/claudia/Dropbox (Indigo Wire Networks)/IWN-Desktop/GratuitousArpBlog/Decomposing_DataStructures/aci-tenant-output.png)
+![aci-tenant-output](./images/aci-tenant-output.png)
 
 
 
@@ -61,7 +61,7 @@ Lets look at the data that was returned, which is highlighted in a big yellow ou
 
 
 
-![aci-tenant-output-annotated](aci-tenant-output-annotated.png)
+![aci-tenant-output-annotated](./images/aci-tenant-output-annotated.png)
 
 
 This is a simple structure.  Its short so can you see the entire result in one view but has both the structures that you will encounter.
@@ -87,7 +87,7 @@ b. Line 2 shows us the left curly brace which indicates that what follows is a d
 
 
 
-![country_info_annoatated](country_info_annoatated.png)
+![country_info_annoatated](./images/country_info_annoatated.png)
 
 Here is where it can start getting confusing.  Remembering our reference rules..that is: 
 
@@ -115,7 +115,7 @@ That reference structure above would return "KE".
 
 
 
-![country_info_getcountrycode](/Users/claudia/Dropbox (Indigo Wire Networks)/IWN-Desktop/GratuitousArpBlog/Decomposing_DataStructures/country_info_getcountrycode.png)
+![country_info_getcountrycode](./images/country_info_getcountrycode.png)
 
 
 
@@ -183,7 +183,7 @@ I hope that by this point there is no shrieking but more of a quizzical.."Hmmm O
 
 …and if there is shrieking then I hope this helps get you on your way to where its quieter..
 
-![get_asteroid_data_screenshot](/Users/claudia/Dropbox (Indigo Wire Networks)/IWN-Desktop/GratuitousArpBlog/Decomposing_DataStructures/get_asteroid_data_screenshot.png)
+![get_asteroid_data_screenshot](./images/get_asteroid_data_screenshot.png)
 
 
 
@@ -193,7 +193,7 @@ Somewhere, in the middle of all of this output, is this section which has the da
 
 
 
-![asteroid_info](/Users/claudia/Dropbox (Indigo Wire Networks)/IWN-Desktop/GratuitousArpBlog/Decomposing_DataStructures/asteroid_info.png)
+![asteroid_info](./images/asteroid_info.png)
 
 
 
@@ -222,7 +222,7 @@ asteroid_output["json"]["near_earth_objects"][date_key]
 
 **asteroid_output =**
 
-![asteroid_data_collapsed_sublime](/Users/claudia/Dropbox (Indigo Wire Networks)/IWN-Desktop/GratuitousArpBlog/Decomposing_DataStructures/asteroid_data_collapsed_sublime.png)
+![asteroid_data_collapsed_sublime](./images/asteroid_data_collapsed_sublime.png)
 
 
 
@@ -250,7 +250,7 @@ Which will give us **false** (for that one anyway :D).
 
 
 
-![asteroid_info_key_expanded](/Users/claudia/Dropbox (Indigo Wire Networks)/IWN-Desktop/GratuitousArpBlog/Decomposing_DataStructures/asteroid_info_key_expanded.png)
+![asteroid_info_key_expanded](./images/asteroid_info_key_expanded.png)
 
 
 
@@ -268,7 +268,7 @@ One of them is allowing you to save an analysis on line so you can share it.
 
 [Decomposing_Data_Structures_asteroid_output](http://jsoneditoronline.org/?id=6f89053f655244989b542f0ca480d93e)
 
-![json_editor_online](/Users/claudia/Dropbox (Indigo Wire Networks)/IWN-Desktop/GratuitousArpBlog/Decomposing_DataStructures/json_editor_online.png)
+![json_editor_online](./images/json_editor_online.png)
 
 
 
@@ -278,7 +278,7 @@ For this data, the local JSON Editor application does a nicer job of representin
 
 
 
-![json-editor-mac](/Users/claudia/Dropbox (Indigo Wire Networks)/IWN-Desktop/GratuitousArpBlog/Decomposing_DataStructures/json-editor-mac.png)
+![json-editor-mac](./images/json-editor-mac.png)
 
 
 
