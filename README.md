@@ -346,6 +346,16 @@ One level deep:
                 Key: regionalBlocs      Value: [{'acronym': 'ASEAN', 'name': 'Association of Southeast Asian Nations', 'otherAcronyms': [], 'otherNames': []}]
 
                 Key: cioc       Value: SIN
+                
+
+
+        ===== Plucking out specific data:
+
+        2 Letter Country Code:                          SG
+        First (0 index) International Calling Code:     65
+        List of International Calling Code:             ['65']
+        ==========================================
+
 
 ```
 
