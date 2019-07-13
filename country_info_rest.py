@@ -116,7 +116,7 @@ def main():
 # Standard call to the main() function.
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Call REST Countries REST API with a country name.",
-                                     epilog="Usage: 'python country_info_rest.py' without the --name argument the script will use the default country name of Mexico. Usage with optional name parameter:  'python country_info_rest.py -n Singapore'. Note: this is a python3 script.")
+                                     epilog="Usage: 'python country_info_rest.py' without the --cname argument the script will use the default country name of Mexico. Usage with optional name parameter:  'python country_info_rest.py -n Singapore'. Note: this is a python3 script.")
 
     #parser.add_argument('all', help='Execute all exercises in week 4 assignment')
     parser.add_argument('-n', '--cname', help='Country Name to override default (Mexico)', default="Mexico")
