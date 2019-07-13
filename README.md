@@ -5,12 +5,14 @@ This repository provides some basic examples and data used in my *Decomposing Da
 In addition to examples of structured data (see the json and txt files) there are two example scripts available:
 
 Script | Description
-country_info_rest.py
-ios_facts_lab.yml
+-------|------------------
+country_info_rest.py | Python3 script to access REST Country API data and optionally decompose the returned data structure
+ios_facts_lab.yml | Ansible playbook to gather facts from a DevNet Sandbox device and decompose the returned data structure
 
 
+If you don't have an asible control host handy, try one of my Ansible Docker images.
 
-```python
+```
 (gen_py3_env) Claudias-iMac:Decomposing_DataStructures claudia$ python country_info_rest.py -h
 usage: country_info_rest.py [-h] [-n CNAME] [-d]
 

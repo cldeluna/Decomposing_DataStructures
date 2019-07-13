@@ -1,0 +1,15 @@
+[local]
+localhost ansible_connection=local
+
+[cisco_xe]
+# ios-xe-mgmt.cisco.com ansible_host=ios-xe-mgmt.cisco.com ansible_port=8181 username=root password=D_Vay!_10&
+ios-xe-mgmt.cisco.com ansible_host=ios-xe-mgmt.cisco.com ansible_port=8181
+
+[cisco_xe:vars]
+ansible_connection=network_cli
+ansible_network_os=ios
+ansible_user=root
+ansible_password=D_Vay!_10&
+ansible_command_timeout=30
+
+
