@@ -10,7 +10,9 @@ country_info_rest.py | Python3 script to access REST Country API data and option
 ios_facts_lab.yml | Ansible playbook to gather facts from a DevNet Sandbox device and decompose the returned data structure
 
 
-If you don't have an asible control host handy, try one of my Ansible Docker images.
+If you don't have an Ansible control host handy, try one of my Ansible Docker images.
+Also, note that this repository has a very minimalistic Ansible environment defined via the included host and ansible.cfg files.
+This playbook uses the Cisco DevNet IOS-XE Sandbox device and you may need to run it a few times for a response.
 
 ```
 (gen_py3_env) Claudias-iMac:Decomposing_DataStructures claudia$ python country_info_rest.py -h
