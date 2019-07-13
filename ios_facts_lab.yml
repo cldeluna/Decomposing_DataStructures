@@ -11,7 +11,7 @@
   tasks:
     - name: Gather Facts with the facts module
       ios_facts:
-        provider: "{{ cli }}"
+        gather_subset: all
 
       register: facts_output
 
