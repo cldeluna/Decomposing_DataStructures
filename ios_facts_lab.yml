@@ -4,16 +4,9 @@
   # hosts: "{{ inventory | default('all') }}"
   hosts: cisco_xe
   gather_facts: false
-  connection: local
   ignore_errors: yes
+  connection: network_cli
 
-  vars:
-    all_facts: []
-    cli:
-        host: "{{ inventory_hostname  }}"
-        username: "{{ username }}"
-        password: "{{ password }}"
-        timeout: 30
 
   tasks:
     - name: Gather Facts with the facts module
