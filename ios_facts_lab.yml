@@ -1,4 +1,17 @@
 ---
+###############################################################################
+# This playbook utilizes the ios_facts ansible module to retrieve a standard
+# set of information returned within a structured data set.
+#
+#
+# EXECUTION:
+# ansible-playbook ios_facts_lab.yml
+# Note: the command above works because of the environment defined in the
+# ansible.cfg file
+#
+# ansible-playbook -i hosts ios_facts_lab.yml
+#
+###############################################################################
 
 - name: Collect device facts with the ios_facts module and display selected values
   # hosts: "{{ inventory | default('all') }}"
