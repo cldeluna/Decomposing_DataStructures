@@ -14,6 +14,9 @@
       # Save the results into a variable called facts_output
       register: facts_output
 
+    # Lets display the entire response before trying to pluck out specific data
+    - debug: var=facts_output
+
     # Start decomposing facts_output to get to the hostname, version, and model
     # Note that Ansible allows the use of the shorter dotted notation for accessing keys in data structures
     # You can interpret below as facts_output["ansible_facts"]["ansible_net_hostname"]
